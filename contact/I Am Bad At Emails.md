@@ -1,6 +1,6 @@
 # I Am Bad At Emails
 
-I am become Sisyphus, and the inbox is my boulder.
+I am become Sisyphus, and the inbox is my boulder. :grinning: :grinning: :grinning: :grinning:
 
 I can't give each email a thoughtful response, but I'd feel dirty giving a *thoughtless* response. So, I wrote this FAQ to give you thoughtful answers *now*, rather than have you wait 4+ weeks for a useless reply. Check it out!
 
