@@ -1,4 +1,6 @@
-### [Nicky Case's website](http://ncase.me)
+### [Aydan Lig'on's website](https://aydanlig.github.io)
+
+Copied from Nicky Case's website: https://ncase.me
 
 Minimalist design for a static site. Not much to it. Good.
 
