@@ -1,5 +1,6 @@
 ### [Aydan Lig'on's website](https://aydanlig.github.io)
 
+Subdomain name [Aydan Lig'on's website](http://aydanligon.de)
 Copied from Nicky Case's website: https://ncase.me
 
 Minimalist design for a static site. Not much to it. Good.
