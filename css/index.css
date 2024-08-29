@@ -50,11 +50,12 @@ h2{
 }
 #header #nicky{
 	width: 250px;
-	height: 220px;
-	background: url(nickycorrupted.png);
+	height: 350px;
+	background: url(Webstie\ OO.gif);
 	background-size: 100% 100%;
 	position: relative;
-	left: -68px;
+	left: 0;
+	bottom: -7px;
 }
 #header #nav{
 	position: absolute;
