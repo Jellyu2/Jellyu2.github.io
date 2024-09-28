@@ -55,7 +55,8 @@ h2{
 	background: url(Header.gif);
 	background-size: 100% 100%;
 	position: relative;
-	bottom: -9px;
+	bottom: -6px;
+	margin-left: 5px;
 }
 #header #nav{
 	position: absolute;
